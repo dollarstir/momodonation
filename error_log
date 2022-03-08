@@ -1,0 +1,23 @@
+[04-Jan-2020 16:13:51 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/ealivery/public_html/ucloudpayment/momo.php on line 39
+[04-Jan-2020 16:24:59 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 16:25:54 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/postpayment.php on line 3
+[04-Jan-2020 18:28:15 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 18:28:42 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/postpayment.php on line 3
+[04-Jan-2020 18:43:16 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 18:44:43 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/postpayment.php on line 3
+[04-Jan-2020 18:57:42 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 18:58:02 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/postpayment.php on line 3
+[04-Jan-2020 19:09:51 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 19:34:23 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 19:34:40 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/postpayment.php on line 3
+[04-Jan-2020 19:38:22 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 19:39:33 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/postpayment.php on line 3
+[04-Jan-2020 19:53:26 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 19:53:53 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/postpayment.php on line 3
+[04-Jan-2020 19:55:09 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 19:55:42 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 19:57:05 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/postpayment.php on line 3
+[04-Jan-2020 20:04:08 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 20:04:34 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/postpayment.php on line 3
+[04-Jan-2020 20:07:54 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/momo.php on line 4
+[04-Jan-2020 20:09:03 UTC] PHP Warning:  session_save_path(): Cannot change save path when session is active in /home/ealivery/public_html/ucloudpayment/postpayment.php on line 3
